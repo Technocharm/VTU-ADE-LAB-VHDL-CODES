@@ -1,4 +1,4 @@
-# VTU_ADE_LAB_VHDL_CODES
+# VTU-ADE-LAB-VHDL-CODES
 #Addsub: It contains full adder, half adder, full subtractor and half subtractor code.
 <br>
 #jkff: It contains jk flip flop code
